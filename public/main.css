@@ -1,0 +1,10 @@
+body {
+  background-color: grey;
+ 
+}
+
+#wrapper {
+  padding-top: 3em;
+  width: 38%;
+  margin: auto;
+}

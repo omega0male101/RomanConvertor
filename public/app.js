@@ -29,7 +29,7 @@ window.onload = function(){
           I:1
         },
 
-  //Creating a empty varaible for the convereted integer.
+  //Creating a empty varaible for the converted integer.
     result = '' ;
 
   //This will run through the Hash until the input number is greater or equal to the one found in the hash array.
