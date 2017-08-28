@@ -12,6 +12,7 @@ window.onload = function(){
   })
 
   function convert(integer) {
+    
    var romanHash = {
           M:1000,
           CM:900,
